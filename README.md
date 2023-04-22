@@ -29,6 +29,9 @@
 - Spring Framework 구조인 Front Controller를 활용 
 - Java를 활용한 페이징 처리
 
+## PRIVIEW
+![priview](https://user-images.githubusercontent.com/120362971/233775637-3ef57e00-b73e-4475-8d32-1146de4761be.png)
+
  
 
 
