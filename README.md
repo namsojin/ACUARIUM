@@ -18,7 +18,7 @@
 
 **개발환경:** Java (JDK 11), Oracle 11 , Apache Tomcat 9 **업무관리:** Google Docs , Discord
 
-**설계/포로세스:**
+**설계/프로세스:**
 - 반응형 사이트 구현을 위한 웹 템플릿 사용
 - 데이터 크롤링: 초기 상품 데이터 삽입(샘플 데이터)
 - session을 활용하여 장바구니 기능 구현
@@ -29,9 +29,21 @@
 - Spring Framework 구조인 Front Controller를 활용 
 - Java를 활용한 페이징 처리
 
-## PRIVIEW
+## Preview
 ![priview](https://user-images.githubusercontent.com/120362971/233775637-3ef57e00-b73e-4475-8d32-1146de4761be.png)
-
+***
+![priview](https://user-images.githubusercontent.com/120362971/233775785-11861195-1405-4ad8-a10b-82abcd872bcb.png)
+***
+![priview](https://user-images.githubusercontent.com/120362971/233776163-bebb1cab-3f43-4b37-a89f-401d5f9ccc58.png)
+***
+![priview](https://user-images.githubusercontent.com/120362971/233776743-f9707fc3-b6be-48d9-b56f-f228d946619a.png)
+***
+![priview](https://user-images.githubusercontent.com/120362971/233776734-49a90569-88ee-4e4f-9629-5899335b26f6.png)
+***
+![priview](https://user-images.githubusercontent.com/120362971/233776218-08d56237-776f-450f-863b-8580ecc9e871.png)
+***
+![priview](https://user-images.githubusercontent.com/120362971/233776314-03036414-5b95-4959-a37c-c4a61841fa79.png)
+***
  
 
 
