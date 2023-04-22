@@ -32,7 +32,7 @@
 ***
 ![priview](https://user-images.githubusercontent.com/120362971/233775785-11861195-1405-4ad8-a10b-82abcd872bcb.png)
 ***
-![priview](https://user-images.githubusercontent.com/120362971/233783992-ce791e23-8724-46da-9b78-680ea5e6c40f.png)
+![priview](https://user-images.githubusercontent.com/120362971/233785355-75e0972f-533e-4a1f-8d30-cd2c9e07208c.png)
 ***
 ![priview](https://user-images.githubusercontent.com/120362971/233776163-bebb1cab-3f43-4b37-a89f-401d5f9ccc58.png)
 ***
